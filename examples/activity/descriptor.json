@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "title": "Sample Activity",
   "description": "Sample Activity",
-  "homepage": "https://github.com/flashlight10086/core/bolb/master/examples/activity",
+  "homepage": "https://github.com/flashlight10086/core/blob/master/examples/activity",
   "settings": [
     {
       "name": "aSetting",
